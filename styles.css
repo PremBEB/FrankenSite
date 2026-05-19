@@ -30,3 +30,19 @@ button {
 footer {
     text-align: center;
 }
+ol {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+hello ::-webkit-scrollbar
+h1::details-content brain ::-webkit-search-results-button
+:playing
